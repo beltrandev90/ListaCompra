@@ -44,6 +44,11 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 2. Se abrirá un menú con las opciones "Editar" y "Borrar".
     - **Editar**: Permite cambiar el nombre del artículo.
     - **Borrar**: Elimina el artículo de la lista.
+  
+## Mi Video en YouTube Shorts
+
+[![Ver el video](https://img.youtube.com/vi/1VKCBLsjalY/maxresdefault.jpg)](https://www.youtube.com/shorts/1VKCBLsjalY)
+
 
 ## Video Demostrativo
 
