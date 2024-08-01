@@ -47,7 +47,7 @@ Para instalar y ejecutar la aplicación localmente, sigue estos pasos:
 
 ## Video Demostrativo
 
-![Video de la Aplicación](videos/milista.mp4)
+[![Video Demostrativo](https://img.youtube.com/vi/1VKCBLsjalY/0.jpg)](https://youtube.com/shorts/1VKCBLsjalY?feature=share)
 
 ## Contribución
 
